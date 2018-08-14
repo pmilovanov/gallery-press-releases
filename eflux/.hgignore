@@ -1,0 +1,4 @@
+syntax: glob
+
+clean/*
+dload/*
